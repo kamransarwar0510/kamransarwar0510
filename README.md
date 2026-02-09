@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kamran-sarwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kamransarwar0510"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/kamransarwar0510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:kamran.sarwar0510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Experience-10+%20Years-00ffff?style=for-the-badge" />
@@ -211,7 +211,7 @@ Driver management app with route optimization and earnings tracking.
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/kamran-sarwar" target="_blank">
+<a href="https://linkedin.com/in/kamransarwar0510" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50"/>
 </a>
 &nbsp;&nbsp;
@@ -228,8 +228,7 @@ Driver management app with route optimization and earnings tracking.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/KamranSarwar/KamranSarwar/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/kamransarwar0510/kamransarwar0510/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center">
