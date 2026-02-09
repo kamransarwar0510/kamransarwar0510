@@ -105,8 +105,6 @@ Cloud-based task management integrated with Microsoft 365 ecosystem.
 
 ---
 
-## 🔥 Additional High-Impact Projects (Client-Attracting)
-
 ### **📊 Fleet AI Analytics Dashboard**
 AI-powered fleet analytics with predictive maintenance and cost optimization.  
 **Tech:** Python, FastAPI, React, AWS Lambda, TensorFlow, IoT Data Streams  
