@@ -75,82 +75,85 @@
 
 ---
 
-## 🚀 Featured Enterprise-Level Projects
 
-### **🌐 SwiftTrack Fleet Security System**
-Real-time GPS vehicle tracking with geofencing, live alerts, and IoT integration.  
-**Tech:** Kotlin, Swift, React Native, Google Maps API, Firebase, WebSockets, IoT  
-**Impact:** Deployed across 500+ vehicles, reducing theft incidents by 60%
+# 🚀 Featured GitHub Projects
 
----
+## 🌐 Swift Track – Fleet Tracking System
+🔗 https://github.com/kamransarwar0510/Swift-track-code  
 
-### **🛒 Shopline E-Commerce Platform**
-Omnichannel e-commerce with multi-vendor architecture and cloud checkout.  
-**Tech:** Vue.js, Node.js, AWS, Payment Gateways, CDN, Microservices  
-**Impact:** Processing $2M+ monthly transactions with 99.9% uptime
+Real-time GPS tracking system with map integration and live vehicle monitoring.  
+**Focus:** Mobile architecture, geolocation APIs, real-time updates.
 
 ---
 
-### **📐 Land Area GPS Calculator**
-Precision land measurement tool using GPS coordinates and interactive maps.  
-**Tech:** React Native, Swift, Kotlin, Google Maps SDK, CoreLocation  
-**Impact:** Used by 50K+ surveyors and real estate professionals
+## 📊 Fleet AI Analytics
+🔗 https://github.com/kamransarwar0510/Fleet-AI-Analytics  
+
+AI-powered analytics dashboard for fleet monitoring and predictive insights.  
+**Focus:** Data visualization, backend APIs, scalable architecture.
 
 ---
 
-### **✅ Microsoft To-Do Cloud Task Manager**
-Cloud-based task management integrated with Microsoft 365 ecosystem.  
-**Tech:** React, TypeScript, Azure, OAuth 2.0, Microsoft Graph API  
-**Impact:** Seamless sync across devices with offline-first architecture
+## 📍 Land GPS Calculator
+🔗 https://github.com/kamransarwar0510/Land-Gps-Calculator  
+
+Mobile-based land measurement tool using GPS and map-based polygon calculations.  
+**Focus:** Maps SDK, coordinate processing, geospatial computation.
 
 ---
 
-### **📊 Fleet AI Analytics Dashboard**
-AI-powered fleet analytics with predictive maintenance and cost optimization.  
-**Tech:** Python, FastAPI, React, AWS Lambda, TensorFlow, IoT Data Streams  
-**Features:** Real-time vehicle health monitoring, ML-based failure prediction, automated alerts
+## 🛍️ Shop Online E-Commerce
+🔗 https://github.com/kamransarwar0510/Shop-online-ecommerce  
+
+Modern e-commerce web app with product catalog and shopping cart workflow.  
+**Focus:** Frontend architecture, responsive UI, commerce flow.
 
 ---
 
-### **💳 Smart POS & Inventory System**
-Mobile point-of-sale with barcode scanning and real-time inventory synchronization.  
-**Tech:** Flutter, Firebase, Stripe, Cloud Functions, SQLite  
-**Features:** Offline mode, receipt printing, multi-store management, analytics dashboard
+## 🏬 Maison Ecommerce Hub
+🔗 https://github.com/kamransarwar0510/Maison-Ecommerce-Hub  
+
+Curated e-commerce UI platform demonstrating modular component-based design.  
+**Focus:** UI architecture, scalable frontend structure.
 
 ---
 
-### **🏥 Telemedicine Mobile Platform**
-HIPAA-compliant video consultation app with appointment scheduling.  
-**Tech:** WebRTC, React Native, Node.js, PostgreSQL, AWS, Twilio  
-**Features:** HD video calls, prescription management, secure chat, payment integration
+## 🏥 HealthSync – Healthcare Platform
+🔗 https://github.com/kamransarwar0510/HealthSync  
+
+Healthcare management and appointment scheduling system.  
+**Focus:** Backend workflows, authentication, structured data handling.
 
 ---
 
-### **💰 AI Expense Tracker App**
-Intelligent budgeting app with ML-powered spending predictions and insights.  
-**Tech:** Flutter, Firebase, Python ML Models, Plaid API  
-**Features:** Receipt OCR, category auto-tagging, budget forecasting, financial insights
+## 🎓 Future Learn – Learning Platform
+🔗 https://github.com/kamransarwar0510/Future-learn-  
+
+Education-focused web platform inspired by modern LMS systems.  
+**Focus:** Course layouts, modular UI components.
 
 ---
 
-### **🏨 Hospitality Booking Platform**
-Multi-property hotel booking system with dynamic pricing engine.  
-**Tech:** Next.js, Node.js, MongoDB, Redis, Stripe, AWS S3  
-**Features:** Real-time availability, payment processing, review system, admin dashboard
+## 👥 TechZium HR – HR & Payroll System
+🔗 https://github.com/kamransarwar0510/TechZium-HR  
+
+HR and payroll management system with employee records and salary logic.  
+**Focus:** Business logic implementation, data modeling.
 
 ---
 
-### **🎓 EduHub Learning Management System**
-Comprehensive LMS with live classes, assignments, and progress tracking.  
-**Tech:** React, Express.js, WebRTC, MongoDB, AWS CloudFront  
-**Features:** Video courses, quizzes, certificates, mobile apps, offline access
+## ✅ App To-Do – Task Manager
+🔗 https://github.com/kamransarwar0510/App-to-do  
+
+Task management app demonstrating CRUD operations and state management.  
+**Focus:** Clean UI logic and productivity workflow.
 
 ---
 
-### **🚗 RideShare Driver Companion App**
-Driver management app with route optimization and earnings tracking.  
-**Tech:** React Native, Google Maps SDK, Firebase, Stripe Connect  
-**Features:** GPS navigation, ride history, earnings analytics, in-app chat
+## 👤 GitHub Profile Repository
+🔗 https://github.com/kamransarwar0510/kamransarwar0510  
+
+Developer profile branding and portfolio showcase repository.
 
 ---
 
