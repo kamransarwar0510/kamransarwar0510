@@ -55,7 +55,7 @@
 
 ## 💼 Professional Experience
 
-### **Techzium Solutions — Lead Engineer** (2018 - Present)
+### **Techzium Solutions — Lead Engineer** (2016 - Present)
 - 🏗️ Architected **scalable mobile applications** serving **100K+ users**
 - ⚡ Improved app performance by **35-45%** through memory & UI optimizations
 - 🧩 Implemented **MVVM, Clean Architecture** reducing crash rates by **40%**
@@ -66,7 +66,7 @@
 
 ---
 
-### **UV Rubbers — Software Engineer** (2015 - 2018)
+### **UV Rubbers — Software Engineer** (2013 - 2016)
 - 📱 Developed enterprise-grade mobile applications for **Android & iOS**
 - 🔗 Integrated **REST APIs** and third-party SDKs (Stripe, Firebase, Maps)
 - ⚙️ Optimized **performance, memory usage, and battery efficiency**
