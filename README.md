@@ -39,7 +39,6 @@
 - 🧪 Built **CI/CD pipelines** reducing release time by **60%**
 - 🧠 Mentored **10+ engineers** and led Agile teams
 - 💬 Ask me about **Swift, Kotlin, Flutter, React Native, Architecture Patterns**
-- 📫 Email: **kamran.sarwar0510@gmail.com**
 
 </td>
 <td width="45%" align="center">
@@ -211,23 +210,6 @@ Developer profile branding and portfolio showcase repository.
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/kamransarwar0510" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/KamranSarwar" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kamran.sarwar0510@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50"/>
-</a>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
