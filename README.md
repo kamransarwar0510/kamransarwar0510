@@ -8,12 +8,12 @@
   Lead Engineer with <b>10+ years of experience</b> architecting enterprise mobile applications, optimizing performance, and building cloud-native systems. Expert in mobile engineering, clean architecture, and leading high-performing engineering teams.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/kamransarwar0510"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/kamransarwar0510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:kamran.sarwar0510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Experience-10+%20Years-00ffff?style=for-the-badge" />
-</p>
+</p> -->
 
 <div align="center">
 
